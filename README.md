@@ -1,0 +1,6 @@
+# One-Line Laugh-Off — Entry
+[![make.fun · u-zkhiel-one-line-laugh-off-714618ae](https://make.fun/badge/u-zkhiel-one-line-laugh-off-714618ae.svg)](https://make.fun/bounty/u-zkhiel-one-line-laugh-off-714618ae?utm_source=github&utm_medium=readme&utm_campaign=u-zkhiel-one-line-laugh-off-714618ae)
+[![rank](https://make.fun/badge/u-zkhiel-one-line-laugh-off-714618ae/kizuna99/u-zkhiel-one-line-laugh-off-714618ae-entry/rank.svg)](https://make.fun/bounty/u-zkhiel-one-line-laugh-off-714618ae/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-zkhiel-one-line-laugh-off-714618ae)
+[![reward](https://make.fun/badge/u-zkhiel-one-line-laugh-off-714618ae/kizuna99/u-zkhiel-one-line-laugh-off-714618ae-entry/reward.svg)](https://make.fun/bounty/u-zkhiel-one-line-laugh-off-714618ae?utm_source=github&utm_medium=readme&utm_campaign=u-zkhiel-one-line-laugh-off-714618ae)
+
+A single-line comedy entry for the One-Line Laugh-Off bounty. The program (`main.py`, Python 3, no dependencies, no network) writes exactly one joke — 68 characters, one line, no trailing newline — to `/output/entry.txt`. The line was chosen from 16 candidates through pairwise tournament and refinement rounds scored in the judge's own criteria order (laugh, surprise, economy, freshness), favouring a sudden concrete twist that lands on a cold read with no setup or explanation.
